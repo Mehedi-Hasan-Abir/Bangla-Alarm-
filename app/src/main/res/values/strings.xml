@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Best Alarm Clock</string>
+    <string name="notification">Notification</string>
+    <string name="toast">Toast</string>
+    <string name="did_you_set_the_alarm">Did you set the alarm?</string>
+    <string name="turn_on_alarm">Turn on Alarm</string>
+    <string name="turn_off_alarm">Turn off Alarm</string>
+</resources>
